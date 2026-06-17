@@ -1,2 +1,4 @@
-# justsleep
-main.py
+streamlit>=1.35.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+xlrd>=2.0.1
